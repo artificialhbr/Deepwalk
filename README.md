@@ -13,7 +13,9 @@ Deepwalk是图表示学习算法之一
 - scikit_learn==1.0.2
 
 ## 使用方法
-1.pip install -r requirements.txt
-2.python deepwalk.py
+- pip install -r requirements.txt
+- python deepwalk.py
 
 
+## 测试
+'micro': 0.6611226611226612, 'macro': 0.581955044560027, 'samples': 0.6611226611226612, 'weighted': 0.6605683653394814, 'acc': 0.6611226611226612
