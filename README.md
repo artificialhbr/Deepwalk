@@ -17,5 +17,9 @@ Deepwalk是图表示学习算法之一
 - python deepwalk.py
 
 
-## 测试
+## 测试结果
+```
 'micro': 0.6611226611226612, 'macro': 0.581955044560027, 'samples': 0.6611226611226612, 'weighted': 0.6605683653394814, 'acc': 0.6611226611226612
+```
+![Image text](https://github.com/artificialhbr/Deepwalk/blob/main/pic.PNG)
+
