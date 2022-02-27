@@ -4,10 +4,16 @@ Deepwalk是图表示学习算法之一
 
 具体论文请点这里-> http://www.perozzi.net/publications/14_kdd_deepwalk.pdf
 
-## 所需python库
+## 环境
 - gensim==4.1.2
 - joblib==1.0.1
 - matplotlib==3.4.3
 - networkx==2.6.3
 - numpy==1.19.5
 - scikit_learn==1.0.2
+
+## 使用方法
+1.pip install -r requirements.txt
+2.python deepwalk.py
+
+
